@@ -8,8 +8,11 @@ Github Practice Reflection
 What is the purpose of a Git commit?
 
 What is the difference between git push and git pull?
+A push is when you overwrite the most recent version of a project that has your changes into the main branch, and a pull is when you load up the most
+recent version of that same project.
 
 Why might a development team use branches?
+A team might use branches to stress test a particular part of a project or if they are wanting to test different variations of a project.
 
 What part of Git/GitHub was most confusing to you?
 
